@@ -30,7 +30,7 @@ A responsive clone of YouTube's homepage UI layout created using semantic HTML a
 
 ## 🔍 Overview
 
-This project is a static clone of YouTube’s homepage interface, built entirely with semantic HTML and custom CSS. The layout includes a sticky header, sidebar navigation, responsive video grid, and tooltips — all crafted without using JavaScript.
+This project is a static clone of YouTube’s homepage interface, built entirely with semantic HTML and custom CSS. The layout includes a sticky header, sidebar navigation, responsive video grid, and tooltips which are all crafted without using JavaScript.
 
 The goal of this build was to practice real-world UI replication while applying responsive design techniques, Flexbox, and CSS Grid. It also reinforced clean class structuring, hover interactions, and layout adaptability for multiple screen sizes.
 
