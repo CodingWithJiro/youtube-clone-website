@@ -1,4 +1,4 @@
-# 💻 YouTube Clone Website
+# YouTube Clone Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.youtube-clone-website&left_text=repo%20views)
 
-## ℹ️ A YouTube Clone Landing Page
+## A YouTube Clone Landing Page
 
 | _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
 | ------------------------------------------------ | --------------------------------------------------- |
@@ -28,7 +28,7 @@ A responsive clone of YouTube's homepage UI layout created using semantic HTML a
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project is a static clone of YouTube’s homepage interface, built entirely with semantic HTML and custom CSS. The layout includes a sticky header, sidebar navigation, responsive video grid, and tooltips which are all crafted without using JavaScript.
 
@@ -36,7 +36,7 @@ The goal of this build was to practice real-world UI replication while applying 
 
 ---
 
-## ✨ Features
+## Features
 
 - Multi-section layout mimicking YouTube UI
 - Created a search bar and icon buttons with tooltip hovers
@@ -49,7 +49,7 @@ The goal of this build was to practice real-world UI replication while applying 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to structure large UI layouts with semantic HTML
 - Building fully responsive grid systems with CSS Grid and Flexbox
@@ -60,7 +60,7 @@ The goal of this build was to practice real-world UI replication while applying 
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -70,23 +70,23 @@ The goal of this build was to practice real-world UI replication while applying 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://youtube-clone-jiro.netlify.app/)
+Or you can check out the **[live website here](https://youtube-clone-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
